@@ -1,0 +1,4 @@
+TEST CASE
+Constant term: 3
+TEST CASE 2
+Constant term: -6290016743746469796
